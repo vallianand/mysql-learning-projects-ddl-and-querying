@@ -1,44 +1,33 @@
-E-Commerce Employee Management & SQL Data Analysis Project
+**E-Commerce Employee Management & SQL Data Analysis Project**
 
 Simple overview of the purpose of the project:
 This repository contains two complete SQL projects—Database Design with DDL & Constraints and Querying & Analysis using SQL.
 It covers everything from creating a relational database structure to performing real-time data analysis using SQL queries.
 
-Description
+**Description**
 
 This project demonstrates an end-to-end SQL workflow by combining:
 
-🔹 Part 1 – Database Design & DDL (Assignment 1)
+**🔹 Part 1 – Database Design & DDL (Assignment 1)**
 
 Includes creation of:
 
-employee database
-
-Departments table with constraints
-
-Location table with auto-increment IDs
-
-Employees table with foreign keys, gender restrictions, age validation & default hire date
-
-Table ALTER, RENAME, TRUNCATE & DROP operations
-
-Complete schema recreation with proper constraints
+*employee database
+*Departments table with constraints
+*Location table with auto-increment IDs
+*Employees table with foreign keys, gender restrictions, age validation & default hire date
+*Table ALTER, RENAME, TRUNCATE & DROP operations
+*Complete schema recreation with proper constraints
 
 🔹 Part 2 – SQL Querying & Data Analysis (Assignment 2)
 
-Includes advanced SQL operations:
-
-DISTINCT, WHERE, LIKE, IS NULL
-
-ORDER BY, LIMIT
-
-SUM, AVG, MIN, MAX
-
-GROUP BY, HAVING
-
-INNER JOIN, LEFT JOIN, RIGHT JOIN
-
-Updating missing values
+* Includes advanced SQL operations:
+* DISTINCT, WHERE, LIKE, IS NULL
+ *ORDER BY, LIMIT
+*SUM, AVG, MIN, MAX
+*GROUP BY, HAVING
+*INNER JOIN, LEFT JOIN, RIGHT JOIN
+*Updating missing values
 
 Detailed employee insights based on salary, location, department & designation
 
