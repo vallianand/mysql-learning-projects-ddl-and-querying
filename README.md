@@ -12,22 +12,22 @@ This project demonstrates an end-to-end SQL workflow by combining:
 
 Includes creation of:
 
-*employee database
-*Departments table with constraints
-*Location table with auto-increment IDs
-*Employees table with foreign keys, gender restrictions, age validation & default hire date
-*Table ALTER, RENAME, TRUNCATE & DROP operations
-*Complete schema recreation with proper constraints
+* employee database
+* Departments table with constraints
+* Location table with auto-increment IDs
+* Employees table with foreign keys, gender restrictions, age validation & default hire date
+* Table ALTER, RENAME, TRUNCATE & DROP operations
+* Complete schema recreation with proper constraints
 
-🔹 Part 2 – SQL Querying & Data Analysis (Assignment 2)
+**🔹 Part 2 – SQL Querying & Data Analysis (Assignment 2)**
 
 * Includes advanced SQL operations:
 * DISTINCT, WHERE, LIKE, IS NULL
- *ORDER BY, LIMIT
-*SUM, AVG, MIN, MAX
-*GROUP BY, HAVING
-*INNER JOIN, LEFT JOIN, RIGHT JOIN
-*Updating missing values
+* ORDER BY, LIMIT
+* SUM, AVG, MIN, MAX
+* GROUP BY, HAVING
+* INNER JOIN, LEFT JOIN, RIGHT JOIN
+* Updating missing values
 
 Detailed employee insights based on salary, location, department & designation
 
@@ -42,21 +42,15 @@ MySQL Server (5.7+ recommended)
 
 Any OS (Windows / macOS / Linux)
 
-Installing
+**Installing**
+* Clone or download this repository
+* Open MySQL Workbench
+* Run the DDL.sql file from Assignment 1
+* Insert employee sample data
+* Run the Queries.sql file from Assignment 2
+* Executing Program
 
-Clone or download this repository
-
-Open MySQL Workbench
-
-Run the DDL.sql file from Assignment 1
-
-Insert employee sample data
-
-Run the Queries.sql file from Assignment 2
-
-Executing Program
-
-Example:
+**Example:**
 
 USE employee;
 SELECT * FROM employees;
@@ -74,11 +68,9 @@ Command:
 
 SET FOREIGN_KEY_CHECKS = 0;
 
-Authors
-
+**Authors**
 Valli Anandhan
 Data Analyst Aspirant
-GitHub: paste your repository link here
 
 Version History
 
@@ -92,16 +84,12 @@ Added SQL querying solutions
 
 Added documentation & formatting
 
-License
-
+**License**
 This project is licensed under the MIT License.
 
-Acknowledgments
+**Acknowledgments**
 
 MySQL Documentation
-
 W3Schools SQL
-
 Entri Elevate SQL Course
-
 ChatGPT for learning support
